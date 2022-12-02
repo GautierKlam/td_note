@@ -21,3 +21,10 @@ td-note-prod-td-note-klam-o1wsx6.mo6.mogenius.io:80
 
 Lien du git :
 https://github.com/GautierKlam/td_note
+
+
+Pour effectuer la partie "Aller plus loin" j'ai du supprimer la première partie par manque de place sur mon compte mogenius.
+
+Pour la partie de déploiement de notre application JAVA, j'ai créé des variables d'environnement contenant les logins de pgAdmin et les passwords (type = secret).
+Je n'ai pas réussi à déployer mon appli JAVA. Cependant, ce que je comptais faire c'est de créer deux images Docker, 1 pour la base de données et une autre pour le projet front full stack.
+Pour la base de donées ça fonctionne mais le lien entre les deux images ne fonctionnent pas.
